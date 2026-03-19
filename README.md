@@ -61,7 +61,7 @@ pip install -r requirements.txt
 
 Download `train.csv` and `test.csv` from the 
 [Kaggle competition page](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data) 
-and place them in the `data/` folder.
+and place them in the  root folder alongside the notebook.
 
 ---
 
